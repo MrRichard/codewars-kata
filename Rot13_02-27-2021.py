@@ -1,5 +1,8 @@
 #!/bin/env python3
 
+# Solution for "Rot12"
+# https://www.codewars.com/kata/530e15517bc88ac656000716
+
 # simple letter substitution cipher that replaces a letter 
 # with the letter 13 afer it in the alphabet.
 
