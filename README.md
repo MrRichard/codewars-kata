@@ -12,3 +12,4 @@ Rot13 | March 01 2021
 Regex PW Validation | March 02 2021
 Is Pangram | March 03 2021
 Data Reverse | March 05 2021
+Function that does arithmatic | March 06 2021
