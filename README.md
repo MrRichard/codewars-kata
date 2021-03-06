@@ -11,3 +11,4 @@ Categorize New Member | Feb 28 2021
 Rot13 | March 01 2021
 Regex PW Validation | March 02 2021
 Is Pangram | March 03 2021
+Data Reverse | March 05 2021
