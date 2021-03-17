@@ -14,3 +14,4 @@ Is Pangram | March 03 2021
 Data Reverse | March 05 2021
 Function that does arithmatic | March 06 2021
 Title Case | March 15 2021
+Highest Rand in an Array | March 16 2021
