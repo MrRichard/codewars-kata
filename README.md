@@ -17,3 +17,4 @@ Title Case | March 15 2021
 Highest Rank in an Array | March 16 2021
 Tribonacci Sequence | March 17 2021
 Format a string of names | March 20 2021
+Prefill an array | April 11 2021
